@@ -2,6 +2,7 @@
 #CodeAlpha_ML_Task1
 
 codealpha_Credit_Scoring_Model
+
 🔍 Objective The goal is to:
 
 --> Build a credit classification model that predicts loan default risk (good/bad credit)
